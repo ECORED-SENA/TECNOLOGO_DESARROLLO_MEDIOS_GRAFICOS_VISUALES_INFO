@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **TECNOLOGO_DESARROLLO_MEDIOS_GRAFICOS_VISUALES_INFO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/TECNOLOGO_DESARROLLO_MEDIOS_GRAFICOS_VISUALES_INFO/](https://ecored-sena.github.io/TECNOLOGO_DESARROLLO_MEDIOS_GRAFICOS_VISUALES_INFO/)
 
 #
